@@ -15,13 +15,7 @@ public class SecretNumber {
             System.out.println("Too low!");
         }
 
-
-
-
-
-
     }
-
 
 }
 
